@@ -2,8 +2,6 @@
 using namespace std;
 
 int main(){
-   /*n=4->  i=0.1.2...n-1,j- n times, if i=0 or n ***..n  else j=0 or n *
-   */
   int i=0,j=0,n;
   cout<<"ENTER VALUE OF n :- ";
   cin>>n;
