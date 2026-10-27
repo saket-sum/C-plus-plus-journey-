@@ -48,7 +48,7 @@ using namespace std;
 }*/
 
 //PAIR
-int main(){
+/*int main(){
     //PAIR FORMATION 
     pair<string, int> p={"MUKESH", 20};
     cout<<p.first<<endl;
@@ -58,4 +58,4 @@ int main(){
     cout<<t.first<<endl;
     cout<<t.second.first<<endl;
     return 0;
-}
+}*/
